@@ -41,6 +41,11 @@ void crc_init()
 
 static uint8_t crc8_fun(const uint8_t* data, size_t length, void* ctx)
 {
+    if (ctx == NULL) 
+        return 0x00;
+    if (data == NULL) 
+        return 0x00;
+    
     crc8_clos* c = (crc8_clos*)ctx;
     uint8_t crc = c->init_reg;
     for (size_t i = 0; i < length; i++)
