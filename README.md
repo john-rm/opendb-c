@@ -1,16 +1,14 @@
 <div align="center" style="text-align: center;">
 
-<h1>opendb-c</h1>
+<h1>opendb-c (on commit <a href="https://github.com/commaai/opendbc/commit/f5d3a310c272ad20de25de4f83f015021a8d19e7">f5d3a31</a>)</h1>
+
 <p>
-  <b>opendbc is a Python API for your car.</b>
-  <br>
   <b>opendb-c is a fork of opendbc, a C API for your car.</b>
   <br>
-  Control the gas, brake, steering, and more. Read the speed, steering angle, and more, with morals in mind.
+  Control the gas, brake, steering, and more. Read the speed, steering angle, and more.
   <br>
+  
   <b> -> i highly discourage the use of this, this fork is not official and the only reviewer is me <- </b>
-  <br>
-  this is a project i am doing just for fun and for a learning experience, most if not all links lead to official sources.
 </p>
 
 <h3>
