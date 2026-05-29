@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
 
-<h1>unofficial opendb-c</h1>
+<h1>opendb-c</h1>
 <p>
   <b>opendbc is a Python API for your car.</b>
   <br>
